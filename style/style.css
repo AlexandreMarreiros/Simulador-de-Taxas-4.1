@@ -1,0 +1,65 @@
+/* Menu */
+.st-emotion-cache-6qob1r {
+    background-color: #004AE6;
+}
+ /* menu - text color - Botão select */
+ .st-emotion-cache-pkbazv {
+    color: rgb(255, 255, 255);
+}
+
+ /* menu - text color - Botão  */
+.st-emotion-cache-17lntkn {
+    color: rgb(255, 255, 255);
+}
+
+ /* menu - logo */
+.st-emotion-cache-10rjk4g {
+    overflow: auto;
+    padding-top: 4rem;
+}
+ /* menu - full  */
+div[data-testid='stSidebarNav'] ul {max-height:none}
+
+.st-emotion-cache-vdokb0 th, .st-emotion-cache-vdokb0 td {
+    padding: 10px 33px;
+    border: 1px solid #17a2b86b;
+}
+
+[data-testid="stAppViewBlockContainer"] {
+    padding: 6rem 5rem 0rem;
+}
+
+/* Tabela de taxas */
+thead, tbody, tfoot, tr, td, th {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0px;
+    text-align: center;
+}
+
+/* Bordas separadas */
+table {
+    caption-side: bottom;
+    border-collapse: separate;
+} 
+
+/* alinha a tabela de taxa; */
+.st-emotion-cache-vdokb0 {
+    font-family: "Source Sans Pro", sans-serif;
+    margin-bottom: -1rem;
+    display: grid;
+}
+
+/* Login */
+.st-emotion-cache-r421ms {
+    border: 1px solid rgba(49, 51, 63, 0.2);
+    border-radius: 0.5rem;
+    padding: calc(1em - 1px);
+    width: 500px;
+    align-items: center !important;
+}
+
+
+[class="st-emotion-cache-611ozf e1f1d6gn2"] {
+    align-items: center !important;
+}
